@@ -1,5 +1,5 @@
 Available at
-https://zeronet.io/docs
+http://zerolink.ml/1DeveLopDZL1cHfKi8UXHh2UBEhzH6HhMp
 
 ## Building
 
