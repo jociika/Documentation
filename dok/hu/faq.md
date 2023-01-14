@@ -1,4 +1,4 @@
-# Frequently asked questions
+http://192.168.0.1/# Frequently asked questions
 
 
 #### Do I need to have a port opened?
